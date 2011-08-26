@@ -9,7 +9,7 @@
            review="review.cyanogenmod.com" />
 
   <remote  name="private"
-           fetch="git@github.com/"
+           fetch="git@github.com:"
            review="" />
 
   <default revision="gingerbread"
